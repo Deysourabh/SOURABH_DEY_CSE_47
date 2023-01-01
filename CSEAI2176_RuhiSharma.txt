@@ -1,0 +1,16 @@
+Name of the student : Ruhi Sharma 
+Class Roll of the student : 76 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI2176
+
+Marks obtained in Math is : 47 
+Marks obtained in Python is : 46 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 67 
+
+You have got 435 in total with 72%
+Performance: GOOD. 
+Status: PASSED. 
+Grade: C.

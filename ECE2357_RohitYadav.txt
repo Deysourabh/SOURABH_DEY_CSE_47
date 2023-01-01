@@ -1,0 +1,16 @@
+Name of the student : Rohit Yadav 
+Class Roll of the student : 57 
+Stream of the student : ECE 
+Your Student ID is : ECE2357
+
+Marks obtained in Math is : 92 
+Marks obtained in Python is : 99 
+Marks obtained in Physics is : 91 
+Marks obtained in Chemistry is : 87 
+Marks obtained in Biology is : 89 
+Marks obtained in English is : 95 
+
+You have got 553 in total with 110%
+Performance: OUTSTANDING. 
+Status: PASSED. 
+Grade: A.

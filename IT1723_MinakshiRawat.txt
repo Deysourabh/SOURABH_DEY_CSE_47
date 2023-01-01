@@ -1,0 +1,16 @@
+Name of the student : Minakshi Rawat 
+Class Roll of the student : 23 
+Stream of the student : IT 
+Your Student ID is : IT1723
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 99 
+Marks obtained in Physics is : 97 
+Marks obtained in Chemistry is : 96 
+Marks obtained in Biology is : 95 
+Marks obtained in English is : 94 
+
+You have got 579 in total with 115%
+Performance: OUTSTANDING. 
+Status: PASSED. 
+Grade: A.
